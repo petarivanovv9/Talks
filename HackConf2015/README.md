@@ -1,3 +1,3 @@
-## HackConf 2015
+# HackConf 2015
 
-# Materials to read and watch:
+## Materials to read and watch:
