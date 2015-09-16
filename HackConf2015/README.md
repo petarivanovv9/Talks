@@ -1,5 +1,7 @@
 # HackConf 2015
 
+* Slides are here - http://slides.com/petarivanov/deck/
+
 ## Materials to read and watch:
 
 * What If money was no object? - https://www.youtube.com/watch?v=khOaAHK7efc
