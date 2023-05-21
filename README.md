@@ -2,6 +2,8 @@
 
 Repository to hold all presentations/slides and materials from talks I give.
 
+- [Building Enterprise-grade GraphQL APIs with Domain-Driven Design and Clean Architecture (Worldwide Software Architecture Summit 2023)](Worldwide-Software-Architecture-Summit-2023/README.md)
+
 - [Migrating from Bootstrap to Tailwind CSS with JavaScript & React (SoftUni Seminar 2023, BG)](SoftUni-Seminar-2023/README.md)
 
 - [Bootstrap to Tailwind and Beyond (React Global Online Summit 2022)](React-Global-Online-Summit-2022/README.md)
