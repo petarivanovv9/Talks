@@ -2,11 +2,11 @@
 
 ![](img-from-website.png)
 
-- Video is in 🚧 (in progress).
+- Video is [here](https://drive.google.com/file/d/1WDOUpwRuKl0X4Fw-j5H3y2_HshNWXt8j/view).
 
-- Slides are [here](https://docs.google.com/presentation/d/1qijaTCMng7twuslVKWsK7j120tU8KIlgcX-bLEt0P9c/edit).
+- Slides are [here](https://docs.google.com/presentation/d/1qijaTCMng7twuslVKWsK7j120tU8KIlgcX-bLEt0P9c).
 
-- Code repo & examples: 🚧 (in progress).
+- Code repo & examples are [here](https://github.com/petarivanovv9/graphql-api-ts-ddd-clean-architecture).
 
 # Building Enterprise-grade GraphQL APIs with Domain-Driven Design and Clean Architecture
 
