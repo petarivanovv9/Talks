@@ -2,6 +2,8 @@
 
 Repository to hold all presentations/slides and materials from talks I give.
 
+- [Building a robust GraphQL API with TypeScript, DDD and Clean Architecture (DEV.BG Lecture 2023)](DEV.BG-2023/README.md)
+
 - [Building a robust GraphQL API with TypeScript, DDD and Clean Architecture (API Forum 2023)](API-Forum-2023/README.md)
 
 - [Building Enterprise-grade GraphQL APIs with Domain-Driven Design and Clean Architecture (Worldwide Software Architecture Summit 2023)](Worldwide-Software-Architecture-Summit-2023/README.md)
