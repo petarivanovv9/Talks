@@ -1,14 +1,18 @@
 # Talks
 
-Repository to hold all presentations/slides and materials from talks I give.
+Repository to hold all presentations, slides and materials from talks I give.
 
-## 2023
+## 2023:
+
+### In-Person:
 
 - [Crafting a Polymorphic React Component Library with TypeScript and Tailwind CSS (polyglot4web 2023)](polyglot4web-02-2023/README.md)
 
 - [Migrating from Bootstrap to Tailwind CSS with JavaScript & React (polyglot4web 2023)](polyglot4web-01-2023/README.md)
 
 - [Crafting a Polymorphic React Component Library with TypeScript and Tailwind CSS (meet.js summit 2023)](meetjs-summit-2023/README.md)
+
+### Online:
 
 - [Building a Polymorphic React Component Library with TypeScript and Tailwind CSS (JavaScript Summit '23)](JavaScript-Summit-2023/README.md)
 
@@ -20,14 +24,20 @@ Repository to hold all presentations/slides and materials from talks I give.
 
 - [Migrating from Bootstrap to Tailwind CSS with JavaScript & React (SoftUni Seminar 2023, BG)](SoftUni-Seminar-2023/README.md)
 
-## 2022
+## 2022:
+
+### Online:
 
 - [Bootstrap to Tailwind and Beyond (React Global Online Summit 2022)](React-Global-Online-Summit-2022/README.md)
 
-## 2020
+## 2020:
+
+### Online:
 
 - [Ups & Downs with Parknshare. Lesson learned. (Sofia University, FMI, 2020)](Sofia-University-FMI-2020/README.md)
 
-## 2015
+## 2015:
+
+### In-Person:
 
 - [Programming, motivation and something more ... (HackConf 2015)](HackConf2015/README.md)
