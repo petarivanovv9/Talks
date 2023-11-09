@@ -2,6 +2,8 @@
 
 Repository to hold all presentations/slides and materials from talks I give.
 
+## 2023
+
 - [Crafting a Polymorphic React Component Library with TypeScript and Tailwind CSS (polyglot4web 2023)](polyglot4web-02-2023/README.md)
 
 - [Migrating from Bootstrap to Tailwind CSS with JavaScript & React (polyglot4web 2023)](polyglot4web-01-2023/README.md)
@@ -18,8 +20,14 @@ Repository to hold all presentations/slides and materials from talks I give.
 
 - [Migrating from Bootstrap to Tailwind CSS with JavaScript & React (SoftUni Seminar 2023, BG)](SoftUni-Seminar-2023/README.md)
 
+## 2022
+
 - [Bootstrap to Tailwind and Beyond (React Global Online Summit 2022)](React-Global-Online-Summit-2022/README.md)
 
+## 2020
+
 - [Ups & Downs with Parknshare. Lesson learned. (Sofia University, FMI, 2020)](Sofia-University-FMI-2020/README.md)
+
+## 2015
 
 - [Programming, motivation and something more ... (HackConf 2015)](HackConf2015/README.md)
