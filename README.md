@@ -6,7 +6,9 @@ Repository to hold all presentations/slides and materials from talks I give.
 
 - [Migrating from Bootstrap to Tailwind CSS with JavaScript & React (polyglot4web 2023)](polyglot4web-01-2023/README.md)
 
-- [Crafting a Polymorphic React Component Library with TypeScript and Tailwind CSS (meet.js Summit '23)](meetjs-summit-2023/README.md)
+- [Crafting a Polymorphic React Component Library with TypeScript and Tailwind CSS (meet.js summit 2023)](meetjs-summit-2023/README.md)
+-
+- [Building a Polymorphic React Component Library with TypeScript and Tailwind CSS (JavaScript Summit '23)](JavaScript-Summit-2023/README.md)
 
 - [Building a robust GraphQL API with TypeScript, DDD and Clean Architecture (DEV.BG Lecture 2023)](DEV.BG-2023/README.md)
 
