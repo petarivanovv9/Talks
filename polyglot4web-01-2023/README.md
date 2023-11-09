@@ -2,7 +2,7 @@
 
 - Link to the event [here](https://polyglot4dev.com/2023.html).
 
-- Slides are [here](https://docs.google.com/presentation/d/1mTNWZGZgdo99GHzVsThsMK4lSfkDsvZUckQ_LGeaCT4/edit).
+- Slides are [here](https://petarivanov.me/migrating-from-bootstrap-to-tailwind-css-with-javascript-react-polyglot4web-2023.pdf).
 
 # Migrating from Bootstrap to Tailwind CSS with JavaScript & React
 

@@ -4,7 +4,7 @@
 
 - Link to the event [here](https://summit.meetjs.pl/2023/).
 
-- Slides are [here](https://docs.google.com/presentation/d/1sItzKzqUibzdlCiew_OnDLxFjQs_jBq0LTAHmeQ3Wko/edit#slide=id.p).
+- Slides are [here](https://petarivanov.me/crafting-polymorphic-react-component-library-meetjs-2023.pdf).
 
 - Code repo & examples are [here](https://github.com/petarivanovv9/polymorphic-react-component-library).
 
