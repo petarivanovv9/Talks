@@ -4,7 +4,7 @@
 
 - Video is [here](https://www.youtube.com/watch?v=u4QTr56t7iM&t=24633s&ab_channel=GeekleOfficial).
 
-- Slides are [here](https://docs.google.com/presentation/d/1_HCLbWqEDGk4_maeQ7KwwnuSQZ3-v0vVbqn0TRQeLh8/edit).
+- Slides are [here](https://petarivanov.me/bootstrap-to-tailwind-and-beyond-react-global-summit-2022.pdf).
 
 # Bootstrap to Tailwind and Beyond
 

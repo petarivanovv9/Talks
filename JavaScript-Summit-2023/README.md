@@ -2,7 +2,7 @@
 
 - Link to the event [here](https://events.geekle.us/js23/).
 
-- Slides are [here](https://docs.google.com/presentation/d/1m9LFlTCttVZooBrGbniyGwtyPcoUohTg-iBghdZS3b0/edit#slide=id.g59813814af_0_116).
+- Slides are [here](https://petarivanov.me/building-polymorphic-react-component-library-js-summit-2023.pdf).
 
 - Code repo & examples are [here](https://github.com/petarivanovv9/polymorphic-react-component-library).
 

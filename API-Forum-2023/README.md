@@ -2,7 +2,7 @@
 
 - Video is ... in progress ... 🚧
 
-- Slides are [here](https://docs.google.com/presentation/d/1jE9LbLek7HWneV4Rmwg7VVEHK9YshZnZQJmvewolAe4/edit?usp=sharing).
+- Slides are [here](https://petarivanov.me/building-robust-graphql-api-with-typeScript-ddd-and-clean-architecture-api-forum-2023.pdf).
 
 - Code repo & examples are [here](https://github.com/petarivanovv9/graphql-api-ts-ddd-clean-architecture).
 

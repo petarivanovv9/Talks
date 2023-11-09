@@ -2,7 +2,7 @@
 
 - Link to the event [here](https://dev.bg/event/building-a-scalable-graphql-api-with-typescript-ddd-clean-architecture/).
 
-- Slides are [here](https://drive.google.com/file/d/1WHCGFaWvk7Fm_AoQkfUhQByW8MpE58QD/view?usp=sharing).
+- Slides are [here](https://petarivanov.me/building-a-robust-graphql-api-dev-bg-2023.pdf).
 
 - Code repo & examples are [here](https://github.com/petarivanovv9/graphql-api-ts-ddd-clean-architecture).
 

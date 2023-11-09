@@ -4,7 +4,7 @@
 
 - Video is [here](https://drive.google.com/file/d/1WDOUpwRuKl0X4Fw-j5H3y2_HshNWXt8j/view).
 
-- Slides are [here](https://docs.google.com/presentation/d/1qijaTCMng7twuslVKWsK7j120tU8KIlgcX-bLEt0P9c).
+- Slides are [here](https://petarivanov.me/building-robust-graphql-api-with-typeScript-ddd-and-clean-architecture-wsas-2023.pdf).
 
 - Code repo & examples are [here](https://github.com/petarivanovv9/graphql-api-ts-ddd-clean-architecture).
 

@@ -2,7 +2,7 @@
 
 - Video is [here](https://softuni.bg/trainings/4122/migrating-from-bootstrap-to-tailwind-css-with-javascript-and-react).
 
-- Slides are [here](https://softuni.bg/trainings/4122/migrating-from-bootstrap-to-tailwind-css-with-javascript-and-react) or [here](https://docs.google.com/presentation/d/1WQSPl4eR6wYFwpVct_N5VFFomH4Pm2NugVQtpI52Efg/edit?usp=sharing).
+- Slides are [here](https://softuni.bg/trainings/4122/migrating-from-bootstrap-to-tailwind-css-with-javascript-and-react) or [here](migrating-from-bootstrap-to-tailwind-css-with-javascript-react-softuni-2023.pdf).
 
 # Migrating from Bootstrap to Tailwind CSS with JavaScript & React
 
