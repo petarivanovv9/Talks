@@ -2,6 +2,12 @@
 
 Repository to hold all presentations, slides and materials from talks I give.
 
+## 2026:
+
+### In-Person:
+
+- [Vibe Coding vs. Conscious Engineering: Building Full-Stack Apps That Survive (DevTalks Romania 2026)](DevTalks-Romania-2026/README.md)
+
 ## 2023:
 
 ### Online:
